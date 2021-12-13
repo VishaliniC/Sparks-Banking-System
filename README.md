@@ -9,7 +9,7 @@ Tech Stack used
     Back-end : PHP 
     Database : MySQL
 
-Database contains two Tables- Customers Table & Transaction Table
+Database contains two Tables
 
     1.Customers table (id, name, dob, gender, email_id, phone_no, balance)
     
