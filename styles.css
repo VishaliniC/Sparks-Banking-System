@@ -1,0 +1,17 @@
+.imgbg{
+    background-image: url('bank.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: 100% 100%;
+    background-position: center;
+}
+
+.but1{
+    margin-top: 30px;
+    width: 645px;
+}
+
+.table1{
+    margin-left: 250px;
+    margin-right: 250px;
+}
