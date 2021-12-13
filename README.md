@@ -6,14 +6,12 @@ A Web Application to transfer money between multiple users (Project contains 10 
 Tech Stack used 
 
     Front-end : HTML, CSS, Bootstrap & Javascript 
-    
     Back-end : PHP 
-    
     Database : MySQL
 
 Database contains two Tables- Customers Table & Transaction Table
 
-    1.Customers table (id, name, dob, gender, email_id, phone_no & balance)
+    1.Customers table (id, name, dob, gender, email_id, phone_no, balance)
     
     2.Transaction table (sender, receiver, amount)
 
